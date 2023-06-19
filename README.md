@@ -24,8 +24,8 @@ Useful for web developers, technical writers and students alike.
 
 [Hypertext Transfer Protocol Version 2 (HTTP/2) | RFC 7540](https://datatracker.ietf.org/doc/html/rfc7540)
 
-[The Transport Layer Security (TLS) Protocol Version 1.3 | RFC8446](https://datatracker.ietf.org/doc/html/rfc8446)
+[The Transport Layer Security (TLS) Protocol Version 1.3 | RFC 8446](https://datatracker.ietf.org/doc/html/rfc8446)
 
-[Simple Mail Transfer Protocol (SMTP) | RFC5321](https://datatracker.ietf.org/doc/html/rfc5321)
+[Simple Mail Transfer Protocol (SMTP) | RFC 5321](https://datatracker.ietf.org/doc/html/rfc5321)
 
 [The Secure Shell (SSH) Transport Layer Protocol | RFC 4253](https://datatracker.ietf.org/doc/html/rfc4253)
