@@ -8,7 +8,7 @@ Useful for web developers, technical writers and students alike.
 
 [Key words for use in RFCs to Indicate Requirement Levels | RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119)
 
-[Guidelines for Writing an IANA Considerations Section in RFCs](https://datatracker.ietf.org/doc/html/rfc2434)
+[Guidelines for Writing an IANA Considerations Section in RFCs | RFC 2434](https://datatracker.ietf.org/doc/html/rfc2434)
 
 ## Internet
 
