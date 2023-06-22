@@ -29,3 +29,5 @@ Useful for web developers, technical writers and students alike.
 [Simple Mail Transfer Protocol (SMTP) | RFC 5321](https://datatracker.ietf.org/doc/html/rfc5321)
 
 [The Secure Shell (SSH) Transport Layer Protocol | RFC 4253](https://datatracker.ietf.org/doc/html/rfc4253)
+
+[The OAuth 2.0 Authorization Framework | RFC 6749](https://datatracker.ietf.org/doc/html/rfc6749)
